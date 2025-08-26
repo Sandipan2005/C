@@ -230,9 +230,34 @@
 //     printf("Product of the above two integers = %d",product);
 // }
 
+// 11. Calculate average weight for purchases
+//
+// Write a C program that accepts two item's weight and number of purchases (floating point values) and calculates their average value.
+// Test Data :
+// Weight - Item1: 15
+// No. of item1: 5
+// Weight - Item2: 25
+// No. of item2: 4
+// Expected Output:
+// Average Value = 19.444444
 
-
-
+// #include<stdio.h>
+// int main() {
+//     int weight1,weight2,item1,item2;
+//     float average;
+//     printf("Weight - Item1: ");
+//     scanf("%d",&weight1);
+//     printf("No. of item1: ");
+//     scanf("%d",&item1);
+//     printf("Weight - Item2: ");
+//     scanf("%d",&weight2);
+//     printf("No. of item2: ");
+//     scanf("%d",&item2);
+//
+//     average = ((weight1 * item1)+(weight2 * item2))/(item1 + item2);
+//
+//     printf("Average Value = %f",average);
+// }
 
 
 

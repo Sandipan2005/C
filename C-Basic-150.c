@@ -11,7 +11,7 @@
 // int main(){
 //     printf("Name   : Sandipan Majumder\n");
 //     printf("DOB    : March 01, 2005\n");
-//     printf("Mobile : 91-6289154483\n");
+//     printf("Mobile : 91-**********\n");
 // }
 
 // 2. Get the C version in use
@@ -208,7 +208,19 @@
 //     printf("Sum of the above two integers = %d",sum);
 // }
 
+// 10. Calculate product of two integers
+//
+// Write a C program that accepts two integers from the user and calculates the product of the two integers.
+// Test Data :
+// Input the first integer: 25
+// Input the second integer: 15
+// Expected Output:
+// Product of the above two integers = 375
 
+#include <stdio.h>
+int main() {
+
+}
 
 
 
